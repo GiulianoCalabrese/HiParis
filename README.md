@@ -13,3 +13,4 @@ We have a image data set of 2000 images of human faces, labelled in 2 categories
 
 
 # Test_nlp
+This code permit to process textual data to generate a LSTM model with keras to generate sentences.
